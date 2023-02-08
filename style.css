@@ -68,7 +68,7 @@ main{
     border-radius: 10px;  
     text-align: center;
     margin-top: 130px;
-    padding: 131px 157px;
+    padding: 120px 140px;
 }
 .section-title{
     font-weight: 700;
@@ -79,4 +79,17 @@ main{
     color: #757575;
     font-size: 18;
     margin-bottom: 30px;
+}
+.about-info-contaioner{
+    display: flex;
+    justify-content: space-around;
+}
+.info-title{
+    font-size: 20px;
+    color: #757575;
+}
+.info-discription{
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
 }
